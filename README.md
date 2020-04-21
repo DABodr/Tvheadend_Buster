@@ -1,4 +1,4 @@
-Install Tvheadend on Debian Buster
+# Install Tvheadend on Debian Buster
 
 *Add the following line to /etc/apt/sources.list:
 
@@ -13,4 +13,4 @@ sudo apt-get update
 sudo apt-get install deb-multimedia-keyring
 
 *Install tvheadend deb package:
-# sudo apt-get install tvheadend
+ sudo apt-get install tvheadend
